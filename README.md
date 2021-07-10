@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **here**
 
-- ⚡ Fun fact **I think I'm a wizard :)**
+- ⚡ Fun fact **I think I'm a wizardess :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
