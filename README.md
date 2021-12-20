@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Developer | Researcher | Learner from Sri Lanka</h3>
 <h3 align="center">This girl is going places...!!!</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Full-Stack Web Development**
 
-- 🌱 I’m currently learning **Image Processing**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **here**
 
